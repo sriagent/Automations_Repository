@@ -1,0 +1,15 @@
+codecrafters-io/build-your-own-x - https://github.com/codecrafters-io/build-your-own-x
+sindresorhus/awesome - https://github.com/sindresorhus/awesome
+freeCodeCamp/freeCodeCamp - https://github.com/freeCodeCamp/freeCodeCamp
+public-apis/public-apis - https://github.com/public-apis/public-apis
+EbookFoundation/free-programming-books - https://github.com/EbookFoundation/free-programming-books
+openclaw/openclaw - https://github.com/openclaw/openclaw
+nilbuild/developer-roadmap - https://github.com/nilbuild/developer-roadmap
+donnemartin/system-design-primer - https://github.com/donnemartin/system-design-primer
+jwasham/coding-interview-university - https://github.com/jwasham/coding-interview-university
+vinta/awesome-python - https://github.com/vinta/awesome-python
+awesome-selfhosted/awesome-selfhosted - https://github.com/awesome-selfhosted/awesome-selfhosted
+996icu/996.ICU - https://github.com/996icu/996.ICU
+practical-tutorials/project-based-learning - https://github.com/practical-tutorials/project-based-learning
+facebook/react - https://github.com/facebook/react
+torvalds/linux - https://github.com/torvalds/linux
